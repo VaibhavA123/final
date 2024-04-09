@@ -1,0 +1,6 @@
+ul{
+    background-color: wheat;
+}
+li:nth-of-type(2n){
+    background-color: greenyellow;
+}
